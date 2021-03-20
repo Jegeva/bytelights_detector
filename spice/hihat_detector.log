@@ -1,0 +1,75 @@
+Circuit: * Z:\home\jg\hack\bytelights_detector\hihat_detector.asc
+
+V2: Removing PWL point (0.006667,0)
+V2: Removing PWL point (0.011859,0)
+V2: Removing PWL point (0.014671,0)
+V2: Removing PWL point (0.017823,0)
+V2: Removing PWL point (0.018277,0)
+V2: Removing PWL point (0.020181,0)
+V2: Removing PWL point (0.023764,0)
+V2: Removing PWL point (0.025329,0)
+V2: Removing PWL point (0.02898,0.05)
+V2: Removing PWL point (0.03161,0)
+V2: Removing PWL point (0.033379,0)
+V2: Removing PWL point (0.033719,0)
+V2: Removing PWL point (0.034898,0)
+V2: Removing PWL point (0.037029,0)
+V2: Removing PWL point (0.037143,0)
+V2: Removing PWL point (0.057188,0)
+V2: Removing PWL point (0.057392,0)
+V2: Removing PWL point (0.062132,0)
+V2: Removing PWL point (0.070295,0)
+V2: Removing PWL point (0.073628,0)
+V2: Removing PWL point (0.080816,0)
+V2: Removing PWL point (0.083016,0)
+V2: Removing PWL point (0.716417,0.014276)
+V2: Removing PWL point (1.44327,0.048151)
+V2: Removing PWL point (9.36002,0.002332)
+V2: Removing PWL point (9.73633,0.009789)
+V2: Removing PWL point (11.8584,0.009538)
+V2: Removing PWL point (15.1205,0.005911)
+V2: Removing PWL point (15.852,0.040217)
+V2: Removing PWL point (22.3127,0.047294)
+V2: Removing PWL point (27.1405,0.004269)
+V2: Removing PWL point (27.4774,0.000143)
+WARNING: Less than two connections to node IN.  This node is used by B1.
+Early termination of direct N-R iteration.
+Direct Newton iteration failed to find .op point.  (Use ".option noopiter" to skip.)
+Starting Gmin stepping
+Gmin = 10
+vernier = 0.5
+vernier = 0.25
+vernier = 0.125
+Gmin = 5.5165
+vernier = 0.0625
+vernier = 0.03125
+vernier = 0.015625
+vernier = 0.0078125
+Gmin = 5.49501
+vernier = 0.00390625
+vernier = 0.00195313
+vernier = 0.000976563
+vernier = 0.000488281
+Gmin = 5.50104
+Gmin = 0
+Gmin stepping succeeded in finding the operating point.
+
+
+Date: Sat Mar 13 18:50:18 2021
+Total elapsed time: 61.321 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 1822373
+traniter = 1820909
+tranpoints = 698291
+accept = 566673
+rejected = 131618
+matrix size = 105
+fillins = 639
+solver = Normal
+Thread vector: 7.0/3.6[2] 1.6/1.5[1] 1.8/1.2[2] 0.6/0.7[1]  2592/500
+Matrix Compiler1: 52.86 KB object code size  6.1/2.6/[2.4]
+Matrix Compiler2: 19.28 KB object code size  2.6/2.2/[1.5]
+
